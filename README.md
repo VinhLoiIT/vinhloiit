@@ -1,18 +1,21 @@
-### Hi there 👋
+# Hi there 👋
 
-[![VinhLoiIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinhloiit&count_private=true&show_icons=true&theme=reactV)](https://github-readme-stats.vercel.app/api?username=vinhloiit&count_private=true&show_icons=true&theme=radical)
+<table>
+ <tr>
+ <td>
+ <h2> About Me </h2>
 
-<!--
-**VinhLoiIT/vinhloiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇻🇳 I'm Vietnamese 🇻🇳
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Artificial Intelligence, especially Computer Vision.
+
+- 😄 Pronouns: He/him
+</td>
+ <td>
+
+[![VinhLoiIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinhloiit&count_private=true&show_icons=true&theme=react)](https://github.com/vinhloiit)
+ </td>
+ </tr>
+</table>
